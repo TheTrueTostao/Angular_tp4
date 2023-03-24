@@ -1,0 +1,18 @@
+a {
+  cursor: default;
+}
+a {
+  cursor: pointer;
+}
+
+.material-icons {
+  cursor: pointer;
+}
+
+#update:hover {
+  color: orange;
+}
+
+#delete:hover {
+  color: rgb(192, 34, 34);
+}
